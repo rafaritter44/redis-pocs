@@ -1,1 +1,1 @@
-# redis-pocs
+# Redis POCs
