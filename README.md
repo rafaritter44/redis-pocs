@@ -15,7 +15,6 @@
 
 ## References
 
-1. https://redis.io/docs/latest/commands/
 1. https://redis.io/learn/howtos/quick-start/cheat-sheet
 1. https://redis.io/technology/data-structures/
 1. https://redis.io/docs/latest/develop/data-types/
