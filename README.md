@@ -18,6 +18,5 @@
 1. https://redis.io/learn/howtos/quick-start/cheat-sheet
 1. https://redis.io/technology/data-structures/
 1. https://redis.io/docs/latest/develop/data-types/
-1. https://redis.io/glossary/redis-data-structures/
 1. https://www.youtube.com/watch?v=fmT5nlEkl3U
 1. https://redis.io/blog/nosql-data-modeling/
